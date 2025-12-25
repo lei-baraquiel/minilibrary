@@ -1,0 +1,15 @@
+miniLibrary/
+|-- .env.example
+|-- package.json
+|-- server.js
+|-- middleware/
+|   `-- auth.js
+|-- models/
+|   |-- Book.js
+|   |-- Transaction.js
+|   `-- User.js
+|-- public/
+|   |-- app.js
+|   |-- index.html
+|   `-- styles.css
+`-- README.md
